@@ -11,13 +11,10 @@ Below, you can find some highlights from my sideprojects that I have pinned. Tha
 ---
 
 ### Tech Loadout
-- C#
-- Python
-- .NET Framework
-- .NET Core
-- Django
-- Flask
-- Rust
+- **Languages**: C#, Python, HTML, CSS, XAML, SQL
+- **Frameworks/Libraries**: .NET Framework, WPF, .NET Core, ASP.NET, Pandas, Tesseract, etc.
+- **Databases**: SQL Server, MySQL
+- **Tools**: Github, VSCode, Visual Studio (Community and Professional), Innosetup, Pyinstaller, Nuget, PyPi
 
 ---
 
